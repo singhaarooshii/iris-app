@@ -116,7 +116,8 @@ streamlit run app.py
 
 
 ## Author
-**Arushi Singh**  
-B.Tech Computer Science & Engineering
-Institute of Technology and Management, Gorakhpur , Uttar Pradesh
+
+**Name:** Arushi Singh  
+**Branch:** B.Tech-Computer Science & Engineering  
+**College:** Institute of Technology and Management, Gorakhpur, Uttar Pradesh
 
