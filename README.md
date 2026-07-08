@@ -44,7 +44,7 @@ iris-flower-classifier/
 - Improve the user interface
 - Support multiple machine learning models
 
-  # 🌸 Iris Flower Classifier
+  #  Iris Flower Classifier
 
 ## Overview
 The Iris Flower Classifier is a Machine Learning web application that predicts the species of an Iris flower based on four input features: sepal length, sepal width, petal length, and petal width. The application is built using Python, Scikit-learn, and Streamlit.
@@ -78,16 +78,7 @@ iris-flower-classifier/
 │── README.md
 ```
 
-## Installation
-1. Clone this repository.
-2. Install the required packages:
-```
-pip install -r requirements.txt
-```
-3. Run the application:
-```
-streamlit run app.py
-```
+
 
 ## How to Use
 1. Enter the flower measurements.
