@@ -6,7 +6,7 @@ import numpy as np
 with open('iris1_model.pkl','rb') as f:
     model=pickle.load(f)
 st.set_page_config(page_title="Iris Flower Classifier")
-st.title("Iris Floer Classifier")
+st.title("Iris Flower Classifier")
 st.write("Enter the measurements below:")
 #input sliders
 sepal_length=st.slider("Sepal Length (cm)" , 4.0,8.0,5.8)
